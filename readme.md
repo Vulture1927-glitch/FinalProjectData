@@ -8,8 +8,8 @@
     - HashMap
 
     - Book Object
+    - Member Object
     - Library Object
-    - Checkout Object
 
 
 - Hashmap Function
