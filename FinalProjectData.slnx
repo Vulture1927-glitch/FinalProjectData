@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FinalProject.Blazor/FinalProject.Blazor.csproj" />
+  <Project Path="FinalProject.ClassLib/FinalProject.ClassLib.csproj" />
+  <Project Path="FinalProject.Console/FinalProject.Console.csproj" />
+  <Project Path="FinalProject.Logic/FinalProject.Logic.csproj" />
+  <Project Path="FinalProject.Tests/FinalProject.Tests.csproj" />
+</Solution>
