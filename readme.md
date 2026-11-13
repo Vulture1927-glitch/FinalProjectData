@@ -1,6 +1,6 @@
 # Final Project To Do List
 
-## Brendan
+## Brennan
 - Write unit testing for
     - AVL Tree object
     - Queue object
@@ -8,27 +8,22 @@
     - HashMap
 
     - Book Object
-    - Member Object
     - Library Object
+    - Checkout Object
 
-
-- Hashmap Function
+- Quicksort method
 
 - Write Frontend Blazor.UI code to run the project.
 
 ## Isaac
 - Initialising github project and submitting reports
 - Write Classlib, including library projects:
-    - Book Object
-    - Member Object
-    - Library Object -> Collection of book and member objects
-
+    - 
+    -
 
 ## Massimo
 - Backend logic project, including classes:
-    - AVL Tree
-    - Queue
-    - Stack
-    - Insertion Sort
-
-- Borrow and Return methods for Library object and handling the waitlist
+    - Min Heap Priority Queue - Keep track of deadlines and put it on top.
+    - Linked List Queue - Keep drivers  
+    - 
+    - 
